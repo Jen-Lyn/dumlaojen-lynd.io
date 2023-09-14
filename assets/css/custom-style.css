@@ -1,0 +1,27 @@
+.software-logo{
+
+    width: 60px !important;
+
+}
+
+.row.align-items-stretch.w-margin{
+
+    margin-bottom: 30px !important;
+
+}
+
+.a-margin-b{
+
+    margin-top: 30px !important;
+
+}
+
+@media (max-width: 767px) {
+
+    .col-md-2.w-margin-t{
+
+        margin-top: 30px !important;
+
+    }
+
+}
